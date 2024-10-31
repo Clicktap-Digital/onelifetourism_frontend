@@ -20,7 +20,7 @@ const pacifico = Pacifico({
 
 export const metadata = {
   title:
-    "Best visa  Services in Dubai | UAE | Travel agency in Dubai - One Life Tourism",
+    "Top Travel Services Agency in Dubai, UAE | One Life Tourism",
   description: "Onelife endless adventures",
 };
 
