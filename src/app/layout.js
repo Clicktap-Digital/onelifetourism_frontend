@@ -19,8 +19,7 @@ const pacifico = Pacifico({
 });
 
 export const metadata = {
-  title:
-    "Top Travel Services Agency in Dubai, UAE | One Life Tourism",
+  title: "Top Travel Services Agency in Dubai, UAE | One Life Tourism",
   description: "Onelife endless adventures",
 };
 
@@ -87,7 +86,7 @@ export default function RootLayout({ children }) {
           <img
             height="1"
             width="1"
-            style="display:none"
+            style={{ display: "none" }}
             src="https://www.facebook.com/tr?id=1084300089373443&ev=PageView&noscript=1"
           />
         </noscript>
